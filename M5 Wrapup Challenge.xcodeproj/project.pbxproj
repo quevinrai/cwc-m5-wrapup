@@ -55,10 +55,10 @@
 		DE44B7A229D920EC00982D85 /* M5 Wrapup Challenge */ = {
 			isa = PBXGroup;
 			children = (
+				DE44B7A329D920EC00982D85 /* M5_Wrapup_ChallengeApp.swift */,
 				DE44B7B129D9D6C100982D85 /* Models */,
 				DE44B7B229D9D6CA00982D85 /* ViewModels */,
 				DE44B7B329D9D6D100982D85 /* Views */,
-				DE44B7A329D920EC00982D85 /* M5_Wrapup_ChallengeApp.swift */,
 				DE44B7A729D920ED00982D85 /* Assets.xcassets */,
 				DE44B7A929D920ED00982D85 /* Preview Content */,
 			);
